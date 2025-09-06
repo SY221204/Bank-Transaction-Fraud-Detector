@@ -1,13 +1,4 @@
-Perfect 👍 thanks for sharing your **House Price Predictor README**.
-It’s clean, step-by-step, and covers everything — problem, objectives, dataset, methodology, evaluation, example, and how to run.
-
-For your **Bank Transaction Fraud Detector (Project 20)** repo, you can follow **exactly the same style** so both projects look consistent on GitHub.
-
-Here’s how your new README can look (parallel structure to your house price project):
-
----
-
-# 🏦 Bank Transaction Fraud Detector
+#  Bank Transaction Fraud Detector
 
 A Data Science & Machine Learning project to detect fraudulent banking transactions automatically. This project uses **Logistic Regression** (classification) from Scikit-Learn and provides **real-time fraud prediction** through a Streamlit web app.
 
@@ -154,6 +145,3 @@ Data Science & Machine Learning (**Classification Problem**)
 
 ---
 
-✅ This structure is **parallel to your House Price Predictor README**, so both projects will look professional and consistent on GitHub.
-
-👉 Do you want me to also write a **short “Features of the App” section** (like “Real-time detection, Graphical insights, Handles unseen categories”) so your repo stands out more?
